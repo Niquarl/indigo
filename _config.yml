@@ -51,10 +51,10 @@ github: Niquarl
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: niquarl@pm.com
-Mastodon: Niquarl
-PixelFed: Niquarl
-PeerTube: Niquarl
-FunkWhale: Niquarl
+mastodon: Niquarl
+pixelfed: Niquarl
+peertube: Niquarl
+funkwhale: Niquarl
 
 authors:
   Niquarl:
