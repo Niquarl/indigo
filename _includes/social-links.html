@@ -106,4 +106,11 @@
             <svg class="icon icon-mail"><use xlink:href="#icon-mail"></use></svg>
         </a>
     {% endif %}
+
+    {% if site.Mastodon %}
+        <a class="link" data-title="{{ site.Mastodon }}" href="https://mastodon.social/@{{ site.email }}">
+            <svg class="icon icon-mastodon"><use xlink:href="#icon-Mastodon"></use></svg>
+        </a>
+    {% endif %}
+
 </div>
