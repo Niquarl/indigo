@@ -17,7 +17,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <ul class="skill-list">
 	<li>Fluent (C2) French & English</li>
-	<li>Funny (not really)</li>
+	<li>Funny (<a href="https://youtu.be/SQD0z8eB_jA">not really</a>)</li>
 	<li>Basic HTML (lol)</li>
 </ul>
 
